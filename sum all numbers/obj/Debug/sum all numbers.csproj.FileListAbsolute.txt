@@ -1,0 +1,10 @@
+C:\Users\ashle\source\repos\sum all numbers\sum all numbers\bin\Debug\sum all numbers.exe.config
+C:\Users\ashle\source\repos\sum all numbers\sum all numbers\bin\Debug\sum all numbers.exe
+C:\Users\ashle\source\repos\sum all numbers\sum all numbers\bin\Debug\sum all numbers.pdb
+C:\Users\ashle\source\repos\sum all numbers\sum all numbers\obj\Debug\sum all numbers.csprojAssemblyReference.cache
+C:\Users\ashle\source\repos\sum all numbers\sum all numbers\obj\Debug\sum_all_numbers.Form1.resources
+C:\Users\ashle\source\repos\sum all numbers\sum all numbers\obj\Debug\sum_all_numbers.Properties.Resources.resources
+C:\Users\ashle\source\repos\sum all numbers\sum all numbers\obj\Debug\sum all numbers.csproj.GenerateResource.cache
+C:\Users\ashle\source\repos\sum all numbers\sum all numbers\obj\Debug\sum all numbers.csproj.CoreCompileInputs.cache
+C:\Users\ashle\source\repos\sum all numbers\sum all numbers\obj\Debug\sum all numbers.exe
+C:\Users\ashle\source\repos\sum all numbers\sum all numbers\obj\Debug\sum all numbers.pdb
